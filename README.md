@@ -1,13 +1,16 @@
 # Game_Of_Life
 JFrame Application 
 
+*
 
 recreating Game of Life by John Conwey
 
+*
 
 at the beginning of the game you enter a time frame for the game in the console
 you can draw with the mouse on the pannel
 
+*
 
 additional functions:
 
@@ -21,8 +24,10 @@ additional functions:
 
 -> taking a picture og the panel
 
+*
 
 keyboard menu:
+
 R -> reset; starts a random simulation
 
 P -> picture; takes a picture of the panel
